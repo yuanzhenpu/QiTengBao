@@ -1,0 +1,27 @@
+{
+    "chengduTeam":[{
+            "img": "/img/5e721b8987f1e.jpg",
+            "name": "刘杰",
+            "deas": "企腾宝专业客服为您服务",
+            "btn": "立即预约"
+        },
+        {
+            "img": "../img/5e95653ccc2d9.jpg",
+            "name": "曾瑞",
+            "deas": "企腾宝专业客服为您服务",
+            "btn": "立即预约"
+        },
+        {
+            "img": "../img/5eb4fae5b4dba.jpg",
+            "name": "韦燚",
+            "deas": "企腾宝专业客服为您服务",
+            "btn": "立即预约"
+        },
+        {
+            "img": "../img/5eb4ef3e96da8.png",
+            "name": "李秀",
+            "deas": "企腾宝专业客服为您服务",
+            "btn": "立即预约"
+        }
+    ]
+}

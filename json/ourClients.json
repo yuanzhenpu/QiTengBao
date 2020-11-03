@@ -1,0 +1,58 @@
+{
+    "ourClients": [{
+            "img": "./img/c1.png"
+        },
+        {
+            "img": "./img/c2.png"
+        },
+        {
+            "img": "./img/c3.png"
+        },
+        {
+            "img": "./img/c4.png"
+        },
+        {
+            "img": "./img/c5.png"
+        },
+        {
+            "img": "./img/c6.png"
+        },
+        {
+            "img": "./img/c7.png"
+        },
+        {
+            "img": "./img/c8.png"
+        },
+        {
+            "img": "./img/c9.png"
+        },
+        {
+            "img": "./img/c10.png"
+        },
+        {
+            "img": "./img/c11.png"
+        },
+        {
+            "img": "./img/c12.png"
+        },
+        {
+            "img": "./img/c13.png"
+        },
+        {
+            "img": "./img/c14.png"
+        },
+        {
+            "img": "./img/c15.png"
+        },
+        {
+            "img": "./img/c16.png"
+        },
+        {
+            "img": "./img/c17.png"
+        },
+        {
+            "img": "./img/c18.png"
+        }
+
+    ]
+}
